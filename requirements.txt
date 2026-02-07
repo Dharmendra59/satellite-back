@@ -1,0 +1,12 @@
+numpy
+requests
+fastapi
+uvicorn
+sgp4
+torch
+gym
+stable-baselines3
+matplotlib
+
+pandas
+scikit-learn
